@@ -19,6 +19,7 @@ public class ChessPosition {
 		return column;
 	}
 
+	// teste alo
 	public int getRow() {
 		return row;
 	}
